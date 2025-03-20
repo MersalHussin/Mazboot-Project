@@ -18,8 +18,5 @@ Mazboot is a health-focused application designed to provide tailored meal plans 
 - **UI Design:** Mazboot UI on Figma: https://www.figma.com/design/QmYwnjT2b4uQPiuLMYNsWy/Mazboot-UI?m=auto&t=oESNlEHg3bgeiU6u-1
 - **UX Design:** Mazboot UX on Figma: https://www.figma.com/board/IcAu51zivM3d5ILuZgQnF2/Mazboot-UX?t=oESNlEHg3bgeiU6u-1
 
-## Repository Setup
-Make sure the repository is public and accessible to everyone. If needed, adjust the repository settings to allow read access without authentication.
-
 ## License
 This project is open-source and available under the MIT License.
